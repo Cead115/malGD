@@ -191,3 +191,9 @@ header > #header-search-bar #header-search-btn {
     background-color: #337ab7;
     border-color: #337ab7;
 }
+
+#article-reply-area #reply-real-area .reply > .reply-header > .reply-writer.logged, #article-reply-area #reply-best-area .reply>.reply-header>.reply-writer.logged {
+    font-weight: bold;
+    color: #0044a0;
+    cursor: pointer;
+}
