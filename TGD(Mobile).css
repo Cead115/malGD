@@ -182,3 +182,12 @@ header > #header-search-bar #header-search-btn {
     color: #fff;
     font-weight: bold;
 }
+
+.pagination>li>a, .pagination>li>span {
+    color: #0044a0;
+}
+
+.pagination>.active>a {
+    background-color: #337ab7;
+    border-color: #337ab7;
+}
