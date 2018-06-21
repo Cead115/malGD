@@ -306,8 +306,3 @@ span.a-badge {
     color: rgba(10, 59, 84, 0);
     content: url(https://cead115.github.io/malGD.github.io/구름_1818.png);
 }
-
-#board-info h1>a.badge.badge-live:after {
-    font-size: 12px;
-    content: " 찐따왕 말쑥 생방킴";
-}
