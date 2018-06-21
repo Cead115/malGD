@@ -197,3 +197,8 @@ header > #header-search-bar #header-search-btn {
     color: #0044a0;
     cursor: pointer;
 }
+
+#board-info #viewers-area .fa-user:before {
+    color: rgba(10, 59, 84, 0);
+    content: url(https://cead115.github.io/malGD.github.io/구름_1818.png);
+}
