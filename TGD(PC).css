@@ -126,7 +126,7 @@ element.style {
 }
 
 html {
-    background: linear-gradient(#00344D,#00344D)
+    background: linear-gradient(to bottom,  #000046, #1CB5E0);
 }
 
 #article-reply-area>.header h5 {
