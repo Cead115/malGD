@@ -37,6 +37,10 @@ header>#header-area>#header-search-link {
     padding: 0 16px 8px;
 }
 
+html {
+    background-image : url(https://cead115.github.io/malGD.github.io/Qkg5.png);
+}
+
 #board-info {
     width: 100%;
     line-height: 1;
